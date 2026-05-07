@@ -1,1 +1,1 @@
-.quit
+select * from expenses;
